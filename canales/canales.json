@@ -1,0 +1,2745 @@
+[
+    {
+        "name": "FUTBOL PARAGUAYO 🇵🇾",
+        "samples": [
+            {
+                "name": "EVENTOS 1",
+                "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+            },
+            {
+                "name": "EVENTOS 2",
+                "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+            },
+            {
+                "name": "EVENTOS 3",
+                "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
+                "icono": "https://i.postimg.cc/7YF52Vww/350-pg-nuevo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS 4",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "https://i.postimg.cc/7YF52Vww/350-pg-nuevo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TIGO SPORTS",
+                "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
+                "icono": "https://i.postimg.cc/7PRj5gjy/350-pg-nuevo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TIGO SPORTS 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
+                "icono": "https://i.postimg.cc/7PRj5gjy/350-pg-nuevo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "EVENTOS DEPORTIVOS ⚽️",
+        "samples": [
+            {
+                "name": "EVENTOS 1",
+                "url": "http://181.118.158.103:8000/play/a038/index.m3u8?hls",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070986_images__7.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "PREMIER LEAGUE ⚽️",
+        "samples": [
+            {
+                "name": "SKY SPORT",
+                "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd",
+                "icono": "https://i.postimg.cc/nzgVwdCw/sky-sport-premier-league-logo-png-seeklogo-456293.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=446af6dd9ec0395eaf5ab6adac2b8234&key=a70a5944e51312f5a045b1e81651d033"
+            }
+        ]
+    },
+    {
+        "name": "EVENTOS DISNEY+ ⚽️",
+        "samples": [
+            {
+                "name": "EVENTOS 1",
+                "url": "http://177.53.152.117:8000/play/a07t/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS 2",
+                "url": "http://177.53.152.117:8000/play/a07l/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS 3",
+                "url": "http://177.53.152.117:8000/play/a07h/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+",
+                "url": "http://186.33.54.46:8000/play/a01e/index.m3u8",
+                "icono": "https://i.postimg.cc/JhDxrK7V/images-JHG.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+ 2",
+                "url": "http://186.33.54.46:8000/play/a018/index.m3u8",
+                "icono": "https://i.postimg.cc/JhDxrK7V/images-JHG.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+ 3",
+                "url": "http://186.33.54.46:8000/play/a019/index.m3u8",
+                "icono": "https://i.postimg.cc/JhDxrK7V/images-JHG.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+ 4",
+                "url": "http://186.33.54.46:8000/play/a01a/index.m3u8",
+                "icono": "https://i.postimg.cc/JhDxrK7V/images-JHG.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+ 5",
+                "url": "http://186.33.54.46:8000/play/a01b/index.m3u8",
+                "icono": "https://i.postimg.cc/JhDxrK7V/images-JHG.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+ 6",
+                "url": "http://186.33.54.46:8000/play/a01c/index.m3u8",
+                "icono": "https://i.postimg.cc/JhDxrK7V/images-JHG.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+ 7",
+                "url": "http://186.33.54.46:8000/play/a01d/index.m3u8",
+                "icono": "https://i.postimg.cc/JhDxrK7V/images-JHG.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "FLOW EVENTOS ⚽",
+        "samples": [
+            {
+                "name": "EVENTOS FLOW 1",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838718_download-_50.png"
+            },
+            {
+                "name": "EVENTOS FLOW 2",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/bkm2nvvvwkf6jr1r0ymmi/clearkey_flow2.json?rlkey=tt9hei8jvhepijrzwphj29mv4&st=5ul69i2e&dl=0",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838718_download-_50.png"
+            }
+        ]
+    },
+    {
+        "name": "PARAGUAY 🇵🇾",
+        "samples": [
+            {
+                "name": "TELEFUTURO",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069363_Logo_telefuturo_250.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "PY | SNT  ",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069650_SNT.png"
+            },
+            {
+                "name": "GEN TV  ",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069716_gen.png"
+            },
+            {
+                "name": "C9N PY",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069769_Canal_9_Noticias.png"
+            },
+            {
+                "name": "NOTICIAS PY  ",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069815_images.png"
+            },
+            {
+                "name": "ABC TV",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=c0bef75733b2645452432bd4e76f36f5&key=ea16243367d814c1d53f1eaf21f005ff",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069858_ABC.png"
+            },
+            {
+                "name": "TRECE PY",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069902_TRECE.png"
+            },
+            {
+                "name": "UNICANAL",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069950_UNICANAL.png"
+            },
+            {
+                "name": "LA TELE",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777071094_LaTele.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
+            },
+            {
+                "name": "PARAVISION  ",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070080_Paravision_logo.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "MEGA TV  PY",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070136_MEGA_TV.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80"
+            },
+            {
+                "name": "ÑANDUTI TV",
+                "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070218_maxresdefault.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SUR TV",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070269_SUR_TV.png"
+            },
+            {
+                "name": "AMERICA PY",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070331_AMERICA_TV.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45"
+            },
+            {
+                "name": "A24 PY",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070407_A24.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8"
+            },
+            {
+                "name": "5 DIAS PY",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070463_images__1_-1.png"
+            },
+            {
+                "name": "CANAL PRO PY",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070505_PRO-captura-4.png"
+            },
+            {
+                "name": "UNION TV",
+                "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070606_277754363_119114190720886_6469885650553245095_n.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MONUMENTAL 1080 TV",
+                "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070647_images__3.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TV CAMARA",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
+                "icono": "https://i.postimg.cc/CKPVCnhh/imagesvv.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9357704ade444dc3b23be89865af2f58&key=3d03e0a79d8f7b7aa2897c3d24bd4b6a"
+            },
+            {
+                "name": "POPULAR TV",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070697_maxresdefault__1.png"
+            },
+            {
+                "name": "TV CHAQUEÑA",
+                "url": "https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070901_TV_CHAQUENA.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ÑANDUTI TV",
+                "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8",
+                "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESTACION 40",
+                "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "PARAGUAY OPCION 2 🇵🇾",
+        "samples": [
+            {
+                "name": "SNT",
+                "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777089275_SNT.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEFUTURO",
+                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777089331_images__3_-1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "C9N",
+                "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777089378_Canal_9_Noticias.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GEN TV",
+                "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777089430_gen-modified_S-Photoroom.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "NPY",
+                "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777089575_images__1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LA TELE HD",
+                "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777089658_channels4_profile__2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TV AIRE CNEL. OVIEDO",
+                "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VISIÓN TV VILLARICA",
+                "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090539_ebec6a_196230fabaf447779f28fbaedca0eb74_mv2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TV CANINDEYU",
+                "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+                "icono": "https://i.postimg.cc/mrdKCYQd/images-FF.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": " PYKASU TV - RADIO",
+                "url": "https://live20.bozztv.com/akamaissh101/ssh101/radiopykasutv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/HLGrHMJb/unnamed.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MI TV",
+                "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
+                "icono": "https://i.postimg.cc/d3wpr5hT/Sin-titulo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "E40",
+                "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090017_estacion-40-911-fm_0e333110.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RADIO FARRA",
+                "url": "http://159.203.148.226:80/live/farra.m3u8",
+                "icono": "https://i.postimg.cc/28kd0Pwt/1200x630wa.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HEI NEW",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd",
+                "icono": "https://i.postimg.cc/PxQ96VGn/images-(5).webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat\\/api\\/license.php?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e"
+            },
+            {
+                "name": "RADIO TV REPUBLICA",
+                "url": "https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/VkdTqrkG/images-D.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "ARGENTINA 🇦🇷",
+        "samples": [
+            {
+                "name": "AMERICA TV ",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "icono": "https://i.postimg.cc/pXbPBS7J/America-Logo2020.webp"
+            },
+            {
+                "name": "TV PUBLICA",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
+                "icono": "https://i.postimg.cc/kD38JyfK/tv-publica-1777165.webp"
+            },
+            {
+                "name": "CANAL 9 ",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
+                "icono": "https://i.postimg.cc/CxD0nsJ1/elnuevelogo.webp"
+            },
+            {
+                "name": "TELEFE",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
+                "icono": "https://i.postimg.cc/YjKX5YgM/telefe-ls84-tv-canal-11-logo-png-seeklogo-305456.webp"
+            },
+            {
+                "name": "EL TRECE",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
+                "icono": "https://i.postimg.cc/1ztLc0rG/eltrece-600x428-12.webp"
+            },
+            {
+                "name": "TN NOTICIAS",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
+                "icono": "https://i.postimg.cc/SxjrggH8/channels4-profile.webp"
+            },
+            {
+                "name": "C5N",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
+                "icono": "https://i.postimg.cc/63hnWZDw/16013-1639-import.webp"
+            },
+            {
+                "name": "LN+ - LA NACION",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
+                "icono": "https://i.postimg.cc/43QmVgwp/images-(1).webp"
+            },
+            {
+                "name": "CRONICA TV",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
+                "icono": "https://i.postimg.cc/nryHNR0Z/images-1.webp"
+            },
+            {
+                "name": "A24",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
+                "icono": "https://i.postimg.cc/cHKCjndy/COSAS-Copy.webp"
+            },
+            {
+                "name": "CANAL 26",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
+                "icono": "https://i.postimg.cc/pr27rDrG/1767204895203-S.png"
+            },
+            {
+                "name": "AR|12",
+                "url": "http://190.7.19.197:232/play/a00o/index.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/WpXYSqh2/Arg-12.png",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CANAL ENCUENTRO",
+                "url": "http://190.7.19.197:232/play/a013/index.m3u8",
+                "icono": "https://i.postimg.cc/bYn74fqS/Logo-canal-encuentro.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAYRES TV",
+                "url": "https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w23453938.m3u8",
+                "icono": "https://i.postimg.cc/Mp33v9WX/bayres-tv-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "NET TV",
+                "url": "https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
+                "icono": "https://i.postimg.cc/BnzNqtg6/el-nuevo-logo-de-net-tv-312529.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GARAGE TV",
+                "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+                "icono": "https://i.postimg.cc/m2579JFX/Sin-t-tulo-5-1.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CIUDAD MAGAZINE",
+                "url": "https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/GtN9B0SY/ciudad-magazine-logo.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LAPACHO TV",
+                "url": "https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8",
+                "icono": "https://i.postimg.cc/x8HqbprF/sddefault.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "AFA EVENTOS ⚽",
+        "samples": [
+            {
+                "name": "LPF PLAY",
+                "url": "https://emitiendoenvivo.com:443/lpf/1.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 1",
+                "url": "https://emitiendoenvivo.com:443/lpf/2.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 2",
+                "url": "https://emitiendoenvivo.com:443\\/lpf/3.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 3",
+                "url": "https://emitiendoenvivo.com:443/lpf/4.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 4",
+                "url": "https://emitiendoenvivo.com:443/lpf/5.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 5",
+                "url": "https://emitiendoenvivo.com:443/lpf/6.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 6",
+                "url": "https://emitiendoenvivo.com:443/lpf/7.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 7",
+                "url": "https://emitiendoenvivo.com:443/lpf/8.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 8",
+                "url": "https://emitiendoenvivo.com:443/lpf/9.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 9",
+                "url": "https://emitiendoenvivo.com:443/lpf/10.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 10",
+                "url": "https://emitiendoenvivo.com:443/lpf/11.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 11",
+                "url": "https://emitiendoenvivo.com:443/lpf/12.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 12",
+                "url": "https://emitiendoenvivo.com:443/lpf/13.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "BRASIL 🇧🇷",
+        "samples": [
+            {
+                "name": "SBT",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+                "icono": "https://i.postimg.cc/mkn3xMff/Logo-SBT.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GLOBO RBS",
+                "url": "https://npmuf25xa05so8hp05.cloudfronte.lat/zzzstream/globosp.m3u8",
+                "icono": "https://i.postimg.cc/59sFkwbj/01logo-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAND",
+                "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+                "icono": "https://i.postimg.cc/g28jdRFJ/2025111085637.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RECORD",
+                "url": "http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8",
+                "icono": "https://i.postimg.cc/ryHwrgqZ/Record-Nuevo-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "REDES BRASIL",
+                "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1413219916.m3u8",
+                "icono": "https://i.postimg.cc/JnGtfF1b/rede-brasil-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CNN BRASIL",
+                "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+                "icono": "https://i.postimg.cc/ZqD5xL61/CNN-Brasil-(red-background)-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAND ",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+                "icono": "https://i.postimg.cc/DybLJS3k/band-logo1.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME AÇÃO",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552",
+                "icono": "https://i.postimg.cc/4N4jXRDF/runtime-br-action-bg.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME ROMANCE",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866",
+                "icono": "https://i.postimg.cc/Hx4PC6B1/runtime-romance-16x9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME CRIME",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864",
+                "icono": "https://i.postimg.cc/rw0npVQ1/runtime-crime-brazil-1400x2000.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES BRASIL ⚽️ 🇧🇷",
+        "samples": [
+            {
+                "name": "PREMIERE  CLUBES",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "PREMIER 2",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9dc40460c93087aea84d6315f08ecb64&key=f69c8d4624fddff4ca89bd0b31bdc4a7",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "PREMIER 3",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d23f7433798a652a7d4f6791d9e1036c&key=4942eebd598b5727c5cc484cc62b52e8",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "PREMIER 4",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e23365c2ad97870c871712b73f0d6195&key=58709c714320bb862dbd07270df81c94",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "PREMIER 5",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
+                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=332f62eb3cae824e98a4124da29a7d31&key=d1698cda3d040f9051125a61745b596b",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "PREMIER 6",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd",
+                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=561baa89676c89c1d047e1852ba01c09&key=a8c157826dfdf1299a329b77e2ab6a1a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "PREMIER 7",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd",
+                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9ee352aac7ed8ee1cb42cfdf322b1cb0&key=053d635fc90e175881bef26cd29f371e",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "PREMIER 8",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd",
+                "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=19fb8464136594ce0c66fe3589e88ef4&key=6a0efc4a82a1e087f093c3e5de3e2a3e",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "SPORTV 1",
+                "url": "https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                "icono": "https://i.postimg.cc/nhQcxQWY/images-C.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "SPORTV 2",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+                "icono": "https://i.postimg.cc/nhQcxQWY/images-C.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3de028eafb3b2caffec03be1c1c818b3&key=8fbdd8a9ae6748696bb13e547bb093fc",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "SPORTV 3",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+                "icono": "https://i.postimg.cc/nhQcxQWY/images-C.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=902e5ec0e3d05e665daa32fc23f4f59e&key=7b2322a273843921a43e2c61dac7cae3",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN",
+                "url": "https://cr7v.short.gy/live25/spn/Index.m3u8",
+                "icono": "https://i.postimg.cc/Gm3VJ0FX/ESPN-Brasil-300x201.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "X Sport",
+                "url": "http://158.172.217.189:8000/play/a19g/index.m3u8",
+                "icono": "https://i.postimg.cc/vT6STbdx/images-V.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CAZÉ TV",
+                "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+                "icono": "https://i.postimg.cc/6Qv9Nb38/cazetv-logo-0-2048x2048-Easy-Resize-com.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CAZÉ TV 1",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+                "icono": "https://i.postimg.cc/6Qv9Nb38/cazetv-logo-0-2048x2048-Easy-Resize-com.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CAZÉ TV 2",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
+                "icono": "https://i.postimg.cc/6Qv9Nb38/cazetv-logo-0-2048x2048-Easy-Resize-com.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CAZÉ TV 3",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd",
+                "icono": "https://i.postimg.cc/6Qv9Nb38/cazetv-logo-0-2048x2048-Easy-Resize-com.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0a29e3b7dc26ced80114da99266ea636&key=9f1e4034545fed90b5ce7a8f8925e621",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+        ]
+    },
+    {
+        "name": "ESPN & FOX SPORTS ⚽️",
+        "samples": [
+            {
+                "name": "ESPN 1",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
+                "icono": "https://i.postimg.cc/XN8TZ7F3/espn-logo-espn-icon-transparent-free-png.png"
+            },
+            {
+                "name": "ESPN 2",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/71e1ciyrsrkfsc0yen7p2/espn2.json?rlkey=gzudy6x2a45avcnnough76kw1&st=bmo7ibra&dl=0",
+                "icono": "https://i.postimg.cc/25dqpX98/RS2652-ESPN2-CLR-Pos-scr.png"
+            },
+            {
+                "name": "ESPN 3",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
+                "icono": "https://i.postimg.cc/sX1THSKK/ESPN3-Logo.jpg"
+            },
+            {
+                "name": "ESPN 4",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
+                "icono": "https://i.postimg.cc/Cxzd1xv3/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png"
+            },
+            {
+                "name": "ESPN 5",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
+                "icono": "https://i.postimg.cc/k4nm2jJJ/espn-5-logo-png-seeklogo-522715.png"
+            },
+            {
+                "name": "ESPN 6",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+                "icono": "https://i.postimg.cc/kXjFzDRX/espn-6-logo-png-seeklogo-522717.png"
+            },
+            {
+                "name": "ESPN 7",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+                "icono": "https://i.postimg.cc/05KsbJxD/espn-7-logo-png-seeklogo-522718.png"
+            },
+            {
+                "name": "ESPN SUR",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
+                "icono": "https://i.postimg.cc/qMWQq9m2/images.png"
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+                "icono": "https://i.postimg.cc/vBTwb4Hb/maxresdefault.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257"
+            },
+            {
+                "name": "FOX SPORTS",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
+                "icono": "https://i.postimg.cc/657gHsT3/d4bbeacf.png"
+            },
+            {
+                "name": "FOX SPORTS 2 ",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
+                "icono": "https://i.postimg.cc/J4nDvxWg/ar-fox-sports-2-m.png"
+            },
+            {
+                "name": "FOX SPORTS 3",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
+                "icono": "https://i.postimg.cc/qq7qfJSP/fox-sports-3-logo-png-seeklogo-510012.png"
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES VARIADOS ⚽️",
+        "samples": [
+            {
+                "name": "TNT SPORT",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+                "icono": "https://i.postimg.cc/D0zrCKgw/TNT-Sports-2021-logo-svg.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a"
+            },
+            {
+                "name": "TYC SPORT",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
+                "icono": "https://i.postimg.cc/Kjn1rpX0/tyc-sports9267-logowik-com.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b"
+            },
+            {
+                "name": "DSPORTS 1",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+                "icono": "https://i.postimg.cc/7L6Stjkf/images-VV.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79"
+            },
+            {
+                "name": "DIRECTV SPORTS 2",
+                "url": "http://104.250.128.34/livehttpplay?channel_id=23538",
+                "icono": "https://i.postimg.cc/6py1WJR2/dsports-2-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DIRECTV SPORTS 2 OPC 2",
+                "url": "http://177.53.152.117:8000/play/a07d/index.m3u8",
+                "icono": "https://i.postimg.cc/mDnY6566/dsports-2-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DIRECTV SPORTS 3",
+                "url": "http://104.250.128.34/livehttpplay?channel_id=23539",
+                "icono": "https://i.postimg.cc/8zcPT5t5/dsports.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BEIN SPORTS EXTRA Ñ",
+                "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.postimg.cc/fbtqWYn8/XTRA-2.png"
+            },
+            {
+                "name": "WIN SPORTS",
+                "url": "http://138.121.12.126:9000/play/a02a/index.m3u8",
+                "icono": "https://i.postimg.cc/wx54YhGH/images-VDS.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "WIN SPORTS+",
+                "url": "http://190.60.37.118:4000/play/a0bw",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/nLbB7m9R/images.png",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEMUNDO",
+                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd",
+                "icono": "https://i.postimg.cc/ZK6fC6RF/logo-principal-telemundo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0a650504ba2f3f849c290b66a425f2d9&key=f9809d1b37c6eded90b4f5fbcc7eda26",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TELEMUNDO DEPORTE",
+                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd",
+                "icono": "https://i.postimg.cc/KcMfHtnZ/Telemundo-Deportes-Logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=300b58dfdaf35e8537ce25c39e99aec7&key=6fc107a6f62f39da27b36ff079d7f937",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TUDN",
+                "url": "http://fortv.cc:8080/54514663/54514663/11885",
+                "icono": "https://i.postimg.cc/rwwPJKjB/unnamed-BB.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/b8a1te1odgs8etywzumfr/tudn.json?rlkey=7wz04zg60sn5vyucsqdsc3yw7&st=14y70cbm&dl=0"
+            },
+            {
+                "name": "TUDN USA",
+                "url": "http://185.56.109.251/Tudn/playlist.m3u8",
+                "icono": "https://i.postimg.cc/nhthGGT9/1b313b5c5e6011d8ca2973b9b0e49e90.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CLARO SPORTS",
+                "url": "http://magmaplayer.com/stream/m3u8/Zwp1KmVjZI8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/201.m3u8",
+                "icono": "https://i.postimg.cc/d3n9kjbL/unnamed-FGD.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CDO PREMIUM",
+                "url": "http://magmaplayer.com/stream/m3u8/BQVjKmR0BI8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/149.m3u8",
+                "icono": "https://i.postimg.cc/LX2ftZB1/tv-station-cdo-premium-2473.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FOX ONE",
+                "url": "https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8",
+                "icono": "https://i.postimg.cc/0Q2VBT89/fox-new-Placeholder-Cover-1920x1080-1764567761278.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FIFA+",
+                "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
+                "icono": "https://i.postimg.cc/mg0JHmwc/images-(2).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RALLY TV",
+                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/J4Csp8zP/unnamed.png",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "UFC",
+                "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
+                "icono": "https://i.postimg.cc/VvWm73K4/images-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PÁDEL",
+                "url": "https://d1zpoa0s0okzmu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/live/fast-channel-mypadeltv-c792478d/fast-channel-mypadeltv-c792478d.m3u8",
+                "icono": "https://i.postimg.cc/nzJXVxXK/360-F-1646003194-jfkq09sr-X7Xywz0M5g4f-Dc6bg-Pdf8i-K5.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "NBA",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash\\/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd",
+                "icono": "https://i.postimg.cc/gJ2PHtQd/NBA-new-logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=84077d18bcf234a42de3745be106a87f&key=aee3069c062ec8ee6bfdd32985f287ef"
+            },
+            {
+                "name": "TENNIS",
+                "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/sgg88GKh/tennis-logo-design-sports-logo-free-vector.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GOLF EN ESPAÑOL",
+                "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/GOLF-CHANNEL-HD-H265/default.mpd",
+                "icono": "https://i.postimg.cc/DZx4xDzg/golf-sport-logo-on-white-260nw-2640984363-1.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat\\/api/license.php?keyid=b8df797e071b0ef1f1a238c8ac18ad2d&key=a65bce29cf4bb5390c686ea0cbbbc4cd"
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES ESPAÑA ⚽️ 🇪🇸",
+        "samples": [
+            {
+                "name": "LA LIGA TV",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+                "icono": "https://i.postimg.cc/fbx3nTTH/images-(3).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=620e51b82596475517a27aa425c52280&key=2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "SKY SPORT",
+                "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
+                "icono": "https://i.postimg.cc/xCLBnccJ/sky-sports-vector-logo-small-2021.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
+            },
+            {
+                "name": "SKY SPORT LA LIGA",
+                "url": "https://aca-live-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265\\/default.mpd",
+                "icono": "https://i.postimg.cc/5tJ5Trq8/Sky-Sports-La-Liga.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=95b52d16d344af539ce9c2c9ff95571a&key=5f035d9c4a178221f89d2439426b2e9a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "SKY SPORT BUNDESLIGA",
+                "url": "https://zap-live4-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
+                "icono": "https://i.postimg.cc/RFDHSpfp/Sky-Sport-Bundesliga.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19"
+            },
+            {
+                "name": "SKY SPORT HYPERMOTION",
+                "url": "https://zap-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
+                "icono": "https://i.postimg.cc/rpY1spLL/image-304-1536x864.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "LA LIGA HYPERMOTION 2",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+                "icono": "https://i.postimg.cc/rpY1spLL/image-304-1536x864.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d69894c7b729c5d1e85893e5e6cfcb0f&key=db0d53f871f5d2ef91d3a112c7ec9f30",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "LA LIGA HYPERMOTION 3",
+                "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+                "icono": "https://i.postimg.cc/rpY1spLL/image-304-1536x864.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc8da8b94c447468ffe392157f8c75e&key=333b934fdde4c1ee87e7f1c5dac4cb8f",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "LA LIGA HYPERMOTION 4",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd",
+                "icono": "https://i.postimg.cc/rpY1spLL/image-304-1536x864.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d8235cccf08d0ff149a20dfcd11ff68b&key=e8ea3a1ae6892eb76a73dc1b14d216d6",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "EURO SPORT 1",
+                "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
+                "icono": "https://i.postimg.cc/RF50gr7T/eurosport-1-logo-vector.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0f4751abc997473d9138d17b5944be04&key=a0aefedd2376a54b8b50f9b7c2d50ac7",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "EURO SPORT 2",
+                "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
+                "icono": "https://i.postimg.cc/mDyTVP2s/eurosport-2-logo-vector.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e369d9ab101d4b60ba13c0384f503528&key=041e35e31381521b3398af5c6dd99414",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "LA 1",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+                "icono": "https://i.postimg.cc/Fs7QkWc4/La-1-HD-TVE.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=fd86dde0ae3e14ff51c8fc8f248a50db&key=d106ae78b0893da2e4393ece99420baa",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "DAZN TV",
+                "url": "https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8",
+                "icono": "https://i.postimg.cc/jdS3k8Qp/DAZN-Logo.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN LA LIGA",
+                "url": "http://galileatv.top/live/blackiptv-nw/RTEUUgSnwYys/342777.m3u8",
+                "icono": "https://i.postimg.cc/7YKMGwzh/DAZN-La-Liga-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN 3",
+                "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/155624.m3u8",
+                "icono": "https://i.postimg.cc/JzT6LjK0/dazn-3-logo-png-seeklogo-501040.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN FAST",
+                "url": "https://dyqiabnsd224t.cloudfront.net/dash/dazn-linear-504/stream.mpd",
+                "icono": "https://i.postimg.cc/6TxsCnF9/dazn-fast-1.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769"
+            },
+            {
+                "name": "DAZN COMBAT",
+                "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
+                "icono": "https://i.postimg.cc/0jsRw7Lf/logo-DAZN-Combat.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MOVISTAR DEPORTES",
+                "url": "http://181.176.155.7:8090/play/a1pw/index.m3u8",
+                "icono": "https://i.postimg.cc/NMdjj911/ab6765630000ba8acc67bc1893d8ed545e8e949c.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TOP BARÇA",
+                "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+                "icono": "https://i.postimg.cc/R05R9GKZ/be97fcba-1be3-41e2-92fd-5fd7b73b227a-16-9-discover-aspect-ratio-default-0.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "REAL MADRID TV",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951381/hls/playlist.m3u8?ads.xumo_channelId=99951381&ads._fw_ifa_type=&ads._fw_did=fee529f1-70d9-4609-8d8a-72767fe4da9e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=CineverseRealMadrid&ads.csid=xumo_web_CineverseRealMadrid_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads.xumo_contentId=4183&ads.xumo_contentName=CineverseRealMadrid&ads.xumo_providerId=4183&ads.xumo_providerName=CineverseRealMadrid&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951381&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+                "icono": "https://i.postimg.cc/Bv0xRb9z/channels4-profile-C.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES MEXICO ⚽️ 🇲🇽",
+        "samples": [
+            {
+                "name": "ESPN MEXICO",
+                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd",
+                "icono": "https://i.postimg.cc/JnCKQnGL/channels4-profile-(5).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=38b63f9aaa7b7c7a822c8e14c8a7212e&key=d6b1f45a59d2dac1a730c7f56c74971a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 2 MEXICO",
+                "url": "https://zap-live4-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd",
+                "icono": "https://i.postimg.cc/hPwmxtyv/espn-2-logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=faa2d2197cc44dc154650bbacb0dc238&key=9859d70c856660e20bbe6896f9cd3048",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 3 MEXICO",
+                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd",
+                "icono": "https://i.postimg.cc/FzYtJpzY/programacao-espn-3.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=dc3c1a083eae593631b5b5019e2efb78&key=68693fb66dc31ca864d854cd176c44c6",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 4 MEXICO",
+                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd",
+                "icono": "https://i.postimg.cc/ZRQ2ZZqV/ESPN-4.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a1b8099b64726abc7723e17829b43a55&key=908a93fe41acf07538c88c1b30277656",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "ESPN 5 MX",
+                "url": "http://190.83.15.112:8000/play\\/a0dw/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/28hcKF42/GGZOje3W4AAg7e-O.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6 MX",
+                "url": "http://190.83.15.112:8000/play\\/a0bn/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/L5dktw0X/images-6.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TUDN MEXICO",
+                "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd",
+                "icono": "https://i.postimg.cc/hvHk8gWQ/PRESS-TUDN-1.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2722647f77b44824c432a3c4555830a2&key=1734befb82f4b438bd84195f6c212e7b",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TUDN VIX",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+                "icono": "https://i.postimg.cc/mZ5k57b9/9Gg5-YDU-400x400.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48"
+            },
+            {
+                "name": "VIX TUDN",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+                "icono": "https://i.postimg.cc/kGzmjKS0/PRESS-VIX-TUDN.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FOX SPORT PREMIUM MEXICO",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+                "icono": "https://i.postimg.cc/66vqFyTZ/fox-sports-premium-us-mx.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FOX SPORT MEXICO",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+                "icono": "https://i.postimg.cc/50cpmmst/Fox-Sports-Mexico-Logo-2022-(1).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FOX SPORT 2 MEXICO",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+                "icono": "https://i.postimg.cc/1X9PnyS9/Fox-sports-3-mx.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FOX SPORT 3 MEXICO",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+                "icono": "https://i.postimg.cc/yxQqD9ny/images-(4).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "FOX",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
+                "icono": "https://i.postimg.cc/8crTV1LX/fox-broadcasting-company-television-channel-logo-television-show-fox-logo-removebg-preview.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297"
+            },
+            {
+                "name": "FOX ONE",
+                "url": "https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8",
+                "icono": "https://i.postimg.cc/L87rd6J0/Fox-One-Logo.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FOX ONE 2",
+                "url": "http://38.194.226.190:8000/play/a00o/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/T3Df9qXM/Imagen-2025-08-06T234253-981.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FOX +",
+                "url": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_mas_hd/default/index.mpd",
+                "icono": "https://i.postimg.cc/d3L2KvkV/png-transparent-fox-broadcasting-company-television-fox-life-fox-international-channels-fox-news-ame.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=51710c9c227a4637991466ece1b3550e&key=831bfae1e16f4cc2cda5d620e6d1e96a"
+            },
+            {
+                "name": "FOX ONE EXTRA",
+                "url": "https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8",
+                "icono": "https://i.postimg.cc/T3Df9qXM/Imagen-2025-08-06T234253-981.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FOX ONE PREMIER",
+                "url": "http://45.5.118.152:8000/play/a08d/index.m3u8",
+                "icono": "https://i.postimg.cc/G3yW635k/Fox-One-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TNT SPORT MX",
+                "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/TNT-HD-H265/default.mpd",
+                "icono": "https://i.postimg.cc/FFTS5mk5/tnt-sports-logo-png-seeklogo-486966.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=37971d47c9e64d7584058efcfdc424b3&key=9944ecda48ef3d6325ccf89ab32bef83"
+            },
+            {
+                "name": "CLARO SPORT MX 1",
+                "url": "http://181.78.192.238:8000/play/a2dj/index.m3u8",
+                "icono": "https://i.postimg.cc/L6KQVxgm/channels4-profile-(2).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CLARO SPORT MX 2",
+                "url": "http://181.78.192.238:8000/play/a2dk/index.m3u8",
+                "icono": "https://i.postimg.cc/kXmwSDLB/Claro-Sports2.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SKY SPORT EVENTOS 1",
+                "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd",
+                "icono": "https://i.postimg.cc/4yJ7fCFy/channels4-profile-(3).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "SKY SPORT EVENTOS 2",
+                "url": "https://zap-live4-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd",
+                "icono": "https://i.postimg.cc/0j72NY5t/sky-sports-mantendra-senal-mexico-1.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1d220987b13a594b144d1bbb6bedd568&key=b1778e4c2200a3a885957500b13f5335",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "SKY SPORT EVENTOS 4",
+                "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
+                "icono": "https://i.postimg.cc/4yJ7fCFy/channels4-profile-(3).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a931b2e953695ffb0cfd38573e97ba33&key=4ddd99cc4fb168d7f0e20be8a3287100",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CANAL+ 3",
+                "url": "http://91.146.94.234:10001/play/a072",
+                "icono": "https://i.postimg.cc/wTBGg6Wk/Canal-Sport-3.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "PERÚ 🇵🇪",
+        "samples": [
+            {
+                "name": "LATINA",
+                "url": "https://jireh-1-hls-video-br-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b220954411456964ef1f57c84&sid=ba5t1l1xb27020933986964ef2495ed5&ndvc=0",
+                "icono": "https://i.postimg.cc/FKrtT0PV/Latina-Television-Logotipo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ATV SUR",
+                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+                "icono": "https://i.postimg.cc/K8JFS93J/images-NMO.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AMERICA",
+                "url": "http://38.224.231.47:8000/play/a00f/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/Px8kDTV5/Am-rica-Televisi-n-logo-con-fondo-2025-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES PERÚ ⚽️ 🇵🇪",
+        "samples": [
+            {
+                "name": "ESPN 1",
+                "url": "http://38.224.231.47:8000/play/a03s/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/t4CJ0Jg8/316Hy-Sxdvo-L-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2",
+                "url": "http://38.224.231.47:8000/play/a05z/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/hPwmxtyv/espn-2-logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3",
+                "url": "http://38.224.231.47:8000/play/a039/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/DzkZgJ3W/images-(5).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4",
+                "url": "http://38.224.231.47:8000/play/a04h/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/q7bsqx3t/FFgb-MMc-Xw-AAXWYX.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5",
+                "url": "http://38.224.231.47:8000/play/a032/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/7ZX7tnXM/GGZOje3W4AAg7e-O.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6",
+                "url": "http://38.224.231.47:8000/play/a02w/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/MGvcP2v3/espn-6-logo-png-seeklogo-522717.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 7",
+                "url": "http://38.224.231.47:8000/play/a049/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/yNgdhmG7/espn-7-logo-png-seeklogo-522718.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "http://38.224.231.47:8000/play/a03w/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/4NWNr2kN/8ad719cccb-espn-premium-en-vivo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LIGA 1 MAX",
+                "url": "http://38.224.231.47:8000/play/a06a/index.m3u8",
+                "icono": "https://i.postimg.cc/7YtwBC0Y/channels4-profile-(6).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "CHILE 🇨🇱",
+        "samples": [
+            {
+                "name": "ANTOFAGASTA TV",
+                "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+                "icono": "https://i.postimg.cc/66rw4zTS/864723cb-d3e1-4543-8cb0-244988977bc2-extra-large-standard-q100.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PORTAL TV",
+                "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+                "icono": "https://i.postimg.cc/FsFtd4Mj/Portal-Logo-Vector.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "STGO TV",
+                "url": "https://stv4.janus.cl/playlist/stream.m3u8",
+                "icono": "https://i.postimg.cc/VvYhCqH3/XSCZX.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELETRAK",
+                "url": "https://teletraktv.janus.cl/playlist/stream.m3u8",
+                "icono": "https://i.postimg.cc/3NcZx2Mj/Teletrak.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TV SENADO",
+                "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+                "icono": "https://i.postimg.cc/NMN6dR0g/channels4-profile-C.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TVEX",
+                "url": "https://v2.tustreaming.cl/tevex/index.m3u8",
+                "icono": "https://i.postimg.cc/3RbGX7LM/images-XVAZ.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TVR",
+                "url": "https://redirector.dps.live/hls/tvr/playlist.m3u8",
+                "icono": "https://i.postimg.cc/3RW4JVK8/OQOUWvpa-400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CLICKTV",
+                "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/Gm1MNwCf/images-XZV.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES CHILE ⚽️ 🇨🇱",
+        "samples": [
+            {
+                "name": "ESPN 1",
+                "url": "http://128.201.227.251:4000/play/a0dw",
+                "icono": "https://i.postimg.cc/tJMSQHXq/images-(6).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2",
+                "url": "http://128.201.227.251:4000/play/a0dx",
+                "icono": "https://i.postimg.cc/YqSK5pxr/espn2-bw-neg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3",
+                "url": "http://38.7.195.44:8000/play/a029",
+                "icono": "https://i.postimg.cc/7PmjMFr2/corporate-Web-Publishing-ESPN3-8-27-Thumbnail-16x9-V2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4",
+                "url": "http://38.7.195.44:8000/play/a06n",
+                "icono": "https://i.postimg.cc/XvksN5Vz/espncl.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5",
+                "url": "http://38.7.195.44:8000/play/a024",
+                "icono": "https://i.postimg.cc/Fz3dK6tT/GGZOje3W4AAg7e-O-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6",
+                "url": "http://38.7.195.44:8000/play/a01z",
+                "icono": "https://i.postimg.cc/mgRMPTgQ/Espn6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 7",
+                "url": "http://38.7.195.44:8000/play/a014",
+                "icono": "https://i.postimg.cc/KzVBjL1B/espn-7-logo-png-seeklogo-522718-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "http://38.7.195.44:8000/play/a04g",
+                "icono": "https://i.postimg.cc/nzLGHwSh/978b930f-6cb6-4102-bc04-b66944f1b1ff.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "COLOMBIA 🇨🇴",
+        "samples": [
+            {
+                "name": "TELEPACIFICO",
+                "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/Kjvj4wrJ/LOGO-TELEPACIFICO.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CALI TV",
+                "url": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/pTVRB89S/images-ZXC.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VISION DORADA",
+                "url": "https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/ry32D79n/b-Dea-X7e-400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES COLOMBIA ⚽️ 🇨🇴",
+        "samples": [
+            {
+                "name": "ESPN 4",
+                "url": "http://38.134.250.110:8000/play/a01a/index.m3u8",
+                "icono": "https://i.postimg.cc/C5BCs73H/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5",
+                "url": "http://38.134.250.110:8000/play/a00s/index.m3u8",
+                "icono": "https://i.postimg.cc/59Yk3Sqg/espn-5-logo-png-seeklogo-522715.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6",
+                "url": "http://38.134.250.110:8000/play/a017/index.m3u8",
+                "icono": "https://i.postimg.cc/3rvnpJYS/images-(7).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 7",
+                "url": "http://38.134.250.110:8000/play/a018/index.m3u8",
+                "icono": "https://i.postimg.cc/fL0jxBn0/espn-7-logo-png-seeklogo-522718-(2).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "ECUADOR 🇪🇨",
+        "samples": [
+            {
+                "name": "ECUADOR TV",
+                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/Y9gKRkH4/17.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ECUAVISA",
+                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
+                "icono": "https://i.postimg.cc/ZncQs5Dr/Ecuavisa-Logo-2019.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES ECUADOR ⚽️ 🇪🇨",
+        "samples": [
+            {
+                "name": "ESPN 1 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a0f7/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/LXPJ8WLZ/espn-logo-espn-icon-transparent-free-png.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a0ey/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/fbrdLXFW/RS2652-ESPN2-CLR-Pos-scr.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a06j/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/vBC5P9L7/ESPN3-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a067/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/3Rqk8TkT/espn-5-logo-png-seeklogo-522715-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a061/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/NFnVZSwR/espn-6-logo-png-seeklogo-522717.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/vBTwb4Hb/maxresdefault.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "URUGUAY 🇺🇾",
+        "samples": [
+            {
+                "name": "UCL",
+                "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+                "icono": "https://i.postimg.cc/2y2WXsdZ/images-c.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "BOLIVIA 🇧🇴",
+        "samples": [
+            {
+                "name": "CADENA A",
+                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+                "icono": "https://i.postimg.cc/9FPZDND7/Ao-Scw-C5x-400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED ADVENIR",
+                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
+                "icono": "https://i.postimg.cc/x8vJbcTZ/ADVenir-2005-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BOLIVISIÓN",
+                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
+                "icono": "https://i.postimg.cc/CLML4vvB/301788650-5571592766236117-1747298548311963103-n-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES COMBATES🥊",
+        "samples": [
+            {
+                "name": "UFC",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134",
+                "icono": "https://i.postimg.cc/tJzdxV2L/ufc-logo-0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PFL MMA",
+                "url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
+                "icono": "https://i.postimg.cc/c1cfTwBP/Professional-Fighters-League-Primary-Logo.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN BOXEO",
+                "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
+                "icono": "https://i.postimg.cc/MT9Kf614/MV5BODE5YTY1YTQt-Mj-Bl-Yi00YWVj-LTg4OWQt-YTVj-NGI2NGVh-N2Vm-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HARD KNOCKS",
+                "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1\\/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
+                "icono": "https://i.postimg.cc/V6hPcdqd/HK-Logo-Wiki.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HBO BOXEO",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469&ads.xumo_streamId=99951469&ads.channelId=99951469&ads.channelName=WBDHBOBoxing_us&ads.caid=WBDHBOBoxing&ads.csid=xumo_web_WBDHBOBoxing_ssai&ads._fw_coppa=0&ads.xumo_contentId=4315&ads.xumo_contentName=WBDHBOBoxing&ads.xumo_providerId=4315&ads.xumo_providerName=WBDHBOBoxing&ads._fw_ifa_type=&ads._fw_did=46cdfd64-e3bb-48cb-a44c-2805a97765f0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+                "icono": "https://i.postimg.cc/kGvBPV25/HBO-Boxing-(2013-stacked)-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ONE CHAMPIONS",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=81b487a8-3485-4f6f-a425-b20249bad741&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+                "icono": "https://i.postimg.cc/6QZ6N7SQ/images-VC.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "TELEMUNDO & UNIVERSO 🎥",
+        "samples": [
+            {
+                "name": "TELEMUNDO NOTICIAS",
+                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
+                "icono": "https://i.postimg.cc/PrMjxDRp/images-XB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEMUNDO 51",
+                "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
+                "icono": "https://i.postimg.cc/xjvrxHnY/wscv-logo.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEMUNDO 52",
+                "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
+                "icono": "https://i.postimg.cc/hvr5SLtS/images-CV.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEMUNDO ACCION",
+                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
+                "icono": "https://i.postimg.cc/YqPxQnZj/Telemundo-Logo-2000.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "UNIVERSO",
+                "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+                "icono": "https://i.postimg.cc/BnD2Hq2k/NBC-Universo-2018.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES MOTOR 🏁",
+        "samples": [
+            {
+                "name": "DAZN F1",
+                "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+                "icono": "https://i.postimg.cc/g09K1dXg/DAZN-F1-logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=609d795905904705028ef54653019af7&key=2c791eb611e57a7d7f203022bc1b9ba3"
+            },
+            {
+                "name": "DAZN MOTO GP",
+                "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/750198.m3u8",
+                "icono": "https://i.postimg.cc/DysVcp2H/motogp-dazn-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "F1 TV",
+                "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+                "icono": "https://i.postimg.cc/PJLptp0p/images-V.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=609d795905904705028ef54653019af7&key=2c791eb611e57a7d7f203022bc1b9ba3"
+            },
+            {
+                "name": "MI COCHE CLÁSICO",
+                "url": "https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8",
+                "icono": "https://i.postimg.cc/CLgny1mk/plantilla-logotipo-coche-clasico-7450-232.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RALLY TV",
+                "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
+                "icono": "https://i.postimg.cc/bNyYH2m5/rally-tv-logo-1v7nnxqwp0v6g1w2twu3qidty9.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GPTV",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8",
+                "icono": "https://i.postimg.cc/sx16smjR/images-G.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SKY SPORT F1",
+                "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/439288.m3u8",
+                "icono": "https://i.postimg.cc/gJ64P5BJ/Sky-Sports-F1-GB-logo-C.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SKY MOTO GP🏁🏍",
+                "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/313230.m3u8",
+                "icono": "https://i.postimg.cc/BQ9YdxrD/Sky-Sport-Moto-GP-Logo-2024-2.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "NASCAR",
+                "url": "https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/sgnJDSN4/nascar-logo-0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SPEED SPORT",
+                "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8",
+                "icono": "https://i.postimg.cc/0Q7mmJV2/images-S.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GARAGE TV",
+                "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+                "icono": "https://i.postimg.cc/MTYHq0sK/Garage-TV-2014-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MOTOR SPORT🚘",
+                "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&coppa=0&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]",
+                "icono": "https://i.postimg.cc/0Q5p6fxF/motorsport-logo-simple-modern-eps-260nw-2090986291-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MOTOR VISIÓN",
+                "url": "https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8",
+                "icono": "https://i.postimg.cc/T14R3tnV/Ztoi-Zz-W5-400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Motor Sur 🇵🇾 ",
+                "url": "https://edge.enhdtv.com/8116/index.m3u8",
+                "icono": "https://i.postimg.cc/pXQH7V6y/images-C.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "TNT UK FHD 🇦🇺",
+        "samples": [
+            {
+                "name": "TNT UK 1",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+                "icono": "https://i.postimg.cc/3NSQ58NR/82d746a0-bd5f-4963-9c77-9a18bedda691.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=294b5761cefc22d0c6312939e13d8278&key=52148f1042d238849f0a7813f1da8a7b"
+            },
+            {
+                "name": "TNT UK 2",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+                "icono": "https://i.postimg.cc/3NSQ58NR/82d746a0-bd5f-4963-9c77-9a18bedda691.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=f288380ca4cef9ad3f27a92a08e9bb8b&key=9f18d26291d9230833501f7f822f6875"
+            },
+            {
+                "name": "TNT UK 3",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+                "icono": "https://i.postimg.cc/3NSQ58NR/82d746a0-bd5f-4963-9c77-9a18bedda691.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1d96ab366bbe6451edf7407b58e2fa16&key=0116201f4a63ac5bf5787d2c610c41a7"
+            },
+            {
+                "name": "TNT UK 4",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+                "icono": "https://i.postimg.cc/3NSQ58NR/82d746a0-bd5f-4963-9c77-9a18bedda691.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=192b1115da041585c77200128549efa1&key=634e10efe4abbb14be400a3ccbac0258"
+            }
+        ]
+    },
+    {
+        "name": "CINE & SERIES 🎬",
+        "samples": [
+            {
+                "name": "UNIVERSAL CHANNEL",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=6cf9a13d6fd65a0f2e1cee3969aab9f5&key=ea61c3c1adee71b5c2e9744e41d4b75f",
+                "icono": "https://i.postimg.cc/GpnbtMSv/Universal-Channel-Brasil-svg.png"
+            },
+            {
+                "name": "SONY MOVIES",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/qBNBmCnY/Sony-Movies-Logo-svg.png",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=88b9c41e72acd5b589bbfb4776969781&key=43b9403f7a9e28fc2d7cbf10373b85aa"
+            },
+            {
+                "name": "EUROPA EUROPA",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/DZsjZgHq/EUROPAEUROPALOGO2016.png",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=b47f257df0314d09a7f8355c3abe1dc6&key=bdc9f1696a82ee7398dd3a7fa82300e2"
+            },
+            {
+                "name": "SEÑAL COLOMBIA",
+                "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/gJ383CZs/senal-colombia-2013-present-logo-png-seeklogo-320578.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FILM & ARTS",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/j2MzdnxM/filmandarts.jpg",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962"
+            },
+            {
+                "name": "MOVISTAR SERIES",
+                "url": "http://magmaplayer.com/stream/m3u8/AGDjKmL2BI8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/669.m3u8",
+                "icono": "https://i.postimg.cc/DfsdbLV9/big-Movistar-Series.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "HBO & UNIVERSAL 🎥",
+        "samples": [
+            {
+                "name": "HBO 1",
+                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e5e43e324b6cd33b92c9ac8c398bb3c8&key=c8c7f804f0ecfc8fc0d53dff48d7ece1",
+                "icono": "https://i.postimg.cc/kXXHTSBn/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon-thumbnail-removebg-preview.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "HBO 2",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d",
+                "icono": "https://i.postimg.cc/SNvgVv0b/png-clipart-tv-channel-icons-hbo-2-black-hbo-2-logo-thumbnail-removebg-preview.png"
+            },
+            {
+                "name": "HBO XTREME",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58",
+                "icono": "https://i.postimg.cc/mDL3TYxg/canal-hbo-xtreme-252x252.png"
+            },
+            {
+                "name": "HBO FAMILY",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=535473132f68082160b489482ca35f8e&key=e90fd91fcd3fc809bed2b1c0d37f7297",
+                "icono": "https://i.postimg.cc/KzW1CBmX/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo-removebg-preview.png"
+            },
+            {
+                "name": "HBO SIGNATURE",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e866499fbc1149f49989672075aa3a68&key=d2dd5c95623c6343240981c2202fc311",
+                "icono": "https://i.postimg.cc/vT95z3fj/logo-hbo-signature-small.png"
+            },
+            {
+                "name": "HBO MUNDI",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7821b2662148fe333d5191acbb8a5c1f&key=ae43f3e2545237ebda58b13813b5d328",
+                "icono": "https://i.postimg.cc/6QmRxD0X/image.jpg"
+            },
+            {
+                "name": "HBO POP",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/t4rnFL8p/image-N.jpg",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=f4e1ce5cef7e9a110fe968f8881b21fa&key=6bbe2062b150b11496cdd5fbdd9c89d6 "
+            },
+            {
+                "name": "HBO PLUS",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/cJpHmZhS/HBO-Plus-removebg-preview.png",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=f0e7f7d458990edfab7b98b412564615&key=79205754b7f84a62661c2dbe9de5dd5d"
+            },
+            {
+                "name": "UNIVERSAL CINEMA",
+                "icono": "https://i.postimg.cc/s27y3WY0/Universal-Cinema-1.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Universal_Cinema/SA_Live_dash_enc/Universal_Cinema.mpd"
+            },
+            {
+                "name": "UNIVERSAL",
+                "icono": "https://i.postimg.cc/C173Kszt/universal-pictures-logo-universal-city-film-studio-universal-logo-removebg-preview.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd"
+            },
+            {
+                "name": "UNIVERSAL COMEDIA",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
+                "icono": "https://i.postimg.cc/bwP4151z/Universal-Comedy-1.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=062c5d25105a3a935b67e36923c73f28&key=88c2d4cec420f18d2477152c66c7870d",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "webtoken": "1.0",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+        ]
+    },
+    {
+        "name": "CINES 24/7 🎬",
+        "samples": [
+            {
+                "name": "CANELA NARCO DRAMA",
+                "url": "https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/cb573f166573638b84c83c65cef24082847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fdb25e40da6aa5e50141947b44fa83439fd401e987d30a83118475f6179ec1a48f8115d48cad599c04ed241959501ef3e129c9be37d9de9f7f309f74174a1f5be1b692f94b4ee22d2159eba5a1d506fb1ddafb46eb0167e170f2278d368b54be10b7e43cc4c7d9f1631b40ceae5a71379fe7b584ff3936cf0d91cbeadc7d7995f75a6c519318b24f2a2880c2d8008bd110a9a33189c60d775aeeb01ff5f7d08aecc2e520fa0cebe5a5d56a18030967068f59d0dc079f2dd87cad994b72050045f8cc5189d2dd0b332f16d0d80a99421ae0d98ed7880a3f92341d00970ab34e1653dc26656ae42ee0e84d06e6281f893902ee4b0a9050f5ae2df6be818e6c58b9d3d3309b058d9b2be0f668d105bdf29fd1884e6a760e10e5e06f19357d8376f0d2dee4647b788695e3dfb09ebc9a5b6d3f2284f0f378dbafcd2c0f1fc2525c003e7045d06c5e0eae838cfb8a899ef18c70ecb685e4d6f29f9f17354d9bcda38884d78567bd76d0cefa3615f63809b21e0a3c67dfba8c16a8761b3e326a8901604caa141a6cded598b5d7d0358eab6da46e364f23dda6430849736373069ea76dd575eb8752ecc89d129fb9cd5a6ead088e2d5cdedcd567fdada6c24c049fe3173a6f85dc2ac03c7c93479a7bc6823e88f066071a3d52418ddb07a811ea89e8b241f01ba4410771fd6bfbcdb3c1b14862a7c01a7d6373167d197579230bb4dfaf142373feb32ae31dabab62a04c503c28549ce5245b95e363138c3f1d31f1f9d3ea4dabd1a037c892a28f0ee36cc4541a627f4adceb42fd53/149/1920x1080_6423560/index.m3u8",
+                "icono": "https://i.postimg.cc/YC4LfX7z/48985d9dc0fd0b1ecac21b18ff6f0077-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CANELA CINEMA",
+                "url": "https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8",
+                "icono": "https://i.postimg.cc/FsYH276J/efea896119450ed5bdc725f270cf31ec-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CINE PLEX",
+                "url": "https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8",
+                "icono": "https://i.postimg.cc/6pdtXRfJ/cineplex5483-logowik-com-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ACCION MEXICANA",
+                "url": "https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8",
+                "icono": "https://i.postimg.cc/CKRyKqjn/341-3412421-tvc-cine-mexicano-2016-logo-canal-cine-mexicano.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "THE WALKING DEAD",
+                "url": "https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8",
+                "icono": "https://i.postimg.cc/j2KkywJW/images-X.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "NOVELAS 🎬",
+        "samples": [
+            {
+                "name": "TLN",
+                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.postimg.cc/hvjGr06q/images.jpg"
+            },
+            {
+                "name": "NOVELISIMA",
+                "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/zf75cgnB/33009681-d88f-43a9-b20b-c62d2d90d675-1684517589-1.webp",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "RCN NOVELAS",
+                "url": "http://181.118.158.103:8000/play/rcnnovelas/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/DzSFC2nq/images-XCVBZCX.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AZ CORAZÓN",
+                "url": "http://181.118.158.103:8000/play/a02r/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/MGf27dmR/canales-azcorazon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEMUNDO",
+                "url": "http://181.118.158.103:8000/play/a01x/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/6qYmJvhZ/png-clipart-telemundo-nbcuniversal-logo-television-ktdo-others-television-text-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "INFANTILES 👦",
+        "samples": [
+            {
+                "name": "PLIM PLIM",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/np7ipkvvlvy00w8xmcz2d/plimplim.json?rlkey=cstpu2ozeo12ed5ugdwfnalws&st=465tr4hs&dl=0",
+                "icono": "https://i.postimg.cc/3xCZ4XMs/9940-e4b98969-1.webp"
+            }
+        ]
+    },
+    {
+        "name": "ESPECIAL HALLOWEN 🎥",
+        "samples": [
+            {
+                "name": "MIEDO TV ",
+                "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-MI-MIEDO-CANAL-SPA/sofastplayout/bf03a5cc-e672-9612-ef64-5296cfdb_HLS/playlist.m3u8",
+                "icono": "https://i.postimg.cc/Lsy4sbx4/Mi-Miedo-canal-logo-02-1024x686-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GRITOS ",
+                "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-TRINIAN-GRITOS-TV-SPA/vglive-sk-187404/playlist.m3u8",
+                "icono": "https://i.postimg.cc/9Fj2c2cF/175133329604Wbbc77Ol-original-zv-Cg8vl-F.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HORROR",
+                "url": "https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?hdnts=st=1761557896~exp=1761561496~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/*!yuppTVCom_5_-1_181b8e8f22fd430d_UY_179.27.200.30/payload/yuppTVCom_5_-1_181b8e8f22fd430d_UY_179.27.200.30/*~hmac=c15e71b0f2f9872e5136ffede3c7c2894792365643f3099ce6292a08732f949f&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=OTH&ads.channel=6607&ads.channel_name=HORRORTV&ads.network_name=yupptv&ads.user=0",
+                "icono": "https://i.postimg.cc/ydZqzQtz/channels4-profile.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VIVO TV",
+                "url": "https://stream.vivotv.uy/hls/stream.m3u8",
+                "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPANTO FILM FEST",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/fRLrNqSS/118562540-369243224468971-3190910459301734169-o-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "MUSICALES 🎶",
+        "samples": [
+            {
+                "name": "Karaoke por Stingray",
+                "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
+                "icono": "https://i.postimg.cc/NM46LYWR/unnamed.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MTV Flow Latino",
+                "url": "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8",
+                "icono": "https://i.postimg.cc/zfNHh6w3/images-CD.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MTV Rocks",
+                "url": "https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8",
+                "icono": "https://i.postimg.cc/gj1n2TkV/dhp1irp-84704b8c-bd5f-4341-9d67-9db4b1459d12.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "STINGRAY iCONCERTS",
+                "url": "https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+                "icono": "https://i.postimg.cc/WbRZjdDy/3148-v2-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "XITE NUEVO LATINO",
+                "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
+                "icono": "https://i.postimg.cc/9Q0Cnpmh/304-3040988-logo-xite-2017-zwart-xite-4k-hd-png-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "XITE SIEMPRE LATINO",
+                "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
+                "icono": "https://i.postimg.cc/90PQcFS8/images-CDF.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MUSIC TOP",
+                "url": "http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1",
+                "icono": "https://i.postimg.cc/gkSP8Zvh/JJ.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BOX PLAYLIST",
+                "url": "https://d3e900fnvjyq99.cloudfront.net/d/BKFNLVLBL20NVRK6FYE0/hls3/now_-1m_15s/m.m3u8",
+                "icono": "https://i.postimg.cc/qq1WsP6P/41Zg-PNe739L.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ROCK TV",
+                "url": "https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8",
+                "icono": "https://i.postimg.cc/3x4zGbrN/CBDBCV.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VEVO POP",
+                "url": "https://d1ktssaxrjabsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1vshdbah8e4f8/playlist.m3u8",
+                "icono": "https://i.postimg.cc/PJJSjPPs/images-XVCB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VEVO POP ESPAÑOL",
+                "url": "https://d3e0llp20n59j5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fs5u02h1uaofy/playlist.m3u8",
+                "icono": "https://i.postimg.cc/yxDyGtbV/900.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VEVO RETRO",
+                "url": "https://dh732bpen9wqx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xpcm3pisx9sj8/VevoRetro_ES.m3u8",
+                "icono": "https://i.postimg.cc/HnMBxF9d/VCXB.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VEVO ´70s & ´80s",
+                "url": "https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8",
+                "icono": "https://i.postimg.cc/0QwpdDM6/GF.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VEVO '90s & '00s",
+                "url": "https://d1cj21il6keqa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jatv2dap12i7/playlist.m3u8",
+                "icono": "https://i.postimg.cc/66VZW9d3/featured-Image.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VEVO 2010s",
+                "url": "https://cors-proxy.cooks.fyi:443/https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8",
+                "icono": "https://i.postimg.cc/sxfgDRrV/Vevo-logo-2013.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VEVO COUNTRY",
+                "url": "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
+                "icono": "https://i.postimg.cc/NfSBZX5h/ZXVX.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VEVO ROCK",
+                "url": "https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8",
+                "icono": "https://i.postimg.cc/zBt9Kmg6/VEVO-channel.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VEVO RETRO ROCK",
+                "url": "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8",
+                "icono": "https://i.postimg.cc/0N2vw04t/png-clipart-vevo-youtube-music-video-musician-youtube-television-angle-thumbnail-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "RUNTIME CINE 🎬",
+        "samples": [
+            {
+                "name": "RUNTIME 1",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME 2",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2218&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ACCION",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FAMILIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6118&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "COMEDIA ",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6127&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPANTO ",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": " CRIMEN",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ROMANCE",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PELISES",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SERIES",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132&avod=1&coppa=0&is_lat=0",
+                "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    }
+]
