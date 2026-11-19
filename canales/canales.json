@@ -169,15 +169,9 @@
         "samples": [
             {
                 "name": "TELEFUTURO",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
-                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069363_Logo_telefuturo_250.png",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+                "type": "HLS",
+                "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069363_Logo_telefuturo_250.png"
             },
             {
                 "name": "PY | SNT  ",
@@ -188,9 +182,8 @@
             },
             {
                 "name": "GEN TV  ",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
+                "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
+                "type": "HLS",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069716_gen.png"
             },
             {
@@ -209,9 +202,8 @@
             },
             {
                 "name": "ABC TV",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=c0bef75733b2645452432bd4e76f36f5&key=ea16243367d814c1d53f1eaf21f005ff",
+                "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+                "type": "HLS",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069858_ABC.png"
             },
             {
@@ -223,17 +215,15 @@
             },
             {
                 "name": "UNICANAL",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
+                "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+                "type": "HLS",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777069950_UNICANAL.png"
             },
             {
                 "name": "LA TELE",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
+                "url": "http://190.93.224.42/LA-TELE/index.m3u8",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777071094_LaTele.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
+                "type": "HLS"
             },
             {
                 "name": "PARAVISION  ",
@@ -263,9 +253,8 @@
             },
             {
                 "name": "SUR TV",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577",
+                "url": "https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8",
+                "type": "HLS",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070269_SUR_TV.png"
             },
             {
@@ -352,10 +341,9 @@
         "samples": [
             {
                 "name": "SNT",
-                "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
+                "url": "http://45.170.130.224:8000/play/a013/index.m3u8",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777089275_SNT.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "TELEFUTURO",
@@ -366,10 +354,9 @@
             },
             {
                 "name": "C9N",
-                "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+                "url": "https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777089378_Canal_9_Noticias.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "GEN TV",
@@ -387,10 +374,9 @@
             },
             {
                 "name": "LA TELE HD",
-                "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+                "url": "http://190.93.224.42/LA-TELE/index.m3u8",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777089658_channels4_profile__2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "TV AIRE CNEL. OVIEDO",
@@ -429,10 +415,9 @@
             },
             {
                 "name": "E40",
-                "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+                "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090017_estacion-40-911-fm_0e333110.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "RADIO FARRA",
@@ -462,9 +447,8 @@
         "samples": [
             {
                 "name": "AMERICA TV ",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "url": "https://america-live.argosworkspace.com/america/index.m3u8",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/pXbPBS7J/America-Logo2020.webp"
             },
             {
@@ -490,9 +474,8 @@
             },
             {
                 "name": "EL TRECE",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
+                "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/1ztLc0rG/eltrece-600x428-12.webp"
             },
             {
@@ -525,9 +508,8 @@
             },
             {
                 "name": "A24",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
+                "url": "http://138.59.227.20:8000/play/a05u/index.m3u8",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/cHKCjndy/COSAS-Copy.webp"
             },
             {
@@ -546,10 +528,9 @@
             },
             {
                 "name": "CANAL ENCUENTRO",
-                "url": "http://190.7.19.197:232/play/a013/index.m3u8",
+                "url": "http://138.59.227.20:8000/play/a05s/index.m3u8",
                 "icono": "https://i.postimg.cc/bYn74fqS/Logo-canal-encuentro.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "BAYRES TV",
@@ -970,44 +951,38 @@
             },
             {
                 "name": "ESPN 2",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/71e1ciyrsrkfsc0yen7p2/espn2.json?rlkey=gzudy6x2a45avcnnough76kw1&st=bmo7ibra&dl=0",
+                "url": "http://38.187.2.124:8000/play/a01d/index.m3u8?hls",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/25dqpX98/RS2652-ESPN2-CLR-Pos-scr.png"
             },
             {
                 "name": "ESPN 3",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
+                "url": "http://38.187.2.124:8000/play/a01n/index.m3u8?hls",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/sX1THSKK/ESPN3-Logo.jpg"
             },
             {
                 "name": "ESPN 4",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
+                "url": "http://38.187.2.124:8000/play/a00i/index.m3u8?hls",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/Cxzd1xv3/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png"
             },
             {
                 "name": "ESPN 5",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
+                "url": "http://38.187.2.124:8000/play/a01e/index.m3u8?hls",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/k4nm2jJJ/espn-5-logo-png-seeklogo-522715.png"
             },
             {
                 "name": "ESPN 6",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+                "url": "http://38.187.2.124:8000/play/a017/index.m3u8?hls",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/kXjFzDRX/espn-6-logo-png-seeklogo-522717.png"
             },
             {
                 "name": "ESPN 7",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+                "url": "http://38.187.2.124:8000/play/a00b/index.m3u8?hls",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/05KsbJxD/espn-7-logo-png-seeklogo-522718.png"
             },
             {
@@ -1019,16 +994,14 @@
             },
             {
                 "name": "ESPN PREMIUM",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+                "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
                 "icono": "https://i.postimg.cc/vBTwb4Hb/maxresdefault.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257"
+                "type": "HLS"
             },
             {
                 "name": "FOX SPORTS",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
+                "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/657gHsT3/d4bbeacf.png"
             },
             {
@@ -1059,10 +1032,9 @@
             },
             {
                 "name": "TYC SPORT",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
+                "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
                 "icono": "https://i.postimg.cc/Kjn1rpX0/tyc-sports9267-logowik-com.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b"
+                "type": "HLS"
             },
             {
                 "name": "DSPORTS 1",
@@ -1101,10 +1073,9 @@
             },
             {
                 "name": "WIN SPORTS",
-                "url": "http://138.121.12.126:9000/play/a02a/index.m3u8",
+                "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
                 "icono": "https://i.postimg.cc/wx54YhGH/images-VDS.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "WIN SPORTS+",
@@ -1670,17 +1641,15 @@
             },
             {
                 "name": "ATV SUR",
-                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+                "url": "http://190.93.224.42/ATV-SUR/index.m3u8",
                 "icono": "https://i.postimg.cc/K8JFS93J/images-NMO.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "AMERICA",
-                "url": "http://38.224.231.47:8000/play/a00f/index.m3u8?hls",
+                "url": "http://190.93.224.42/AMERICA-TV/index.m3u8",
                 "icono": "https://i.postimg.cc/Px8kDTV5/Am-rica-Televisi-n-logo-con-fondo-2025-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             }
         ]
     },
@@ -1696,52 +1665,45 @@
             },
             {
                 "name": "ESPN 2",
-                "url": "http://38.224.231.47:8000/play/a05z/index.m3u8?hls",
+                "url": "http://38.187.2.124:8000/play/a01d/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/hPwmxtyv/espn-2-logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "ESPN 3",
-                "url": "http://38.224.231.47:8000/play/a039/index.m3u8?hls",
+                "url": "http://38.187.2.124:8000/play/a01n/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/DzkZgJ3W/images-(5).png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "ESPN 4",
-                "url": "http://38.224.231.47:8000/play/a04h/index.m3u8?hls",
+                "url": "http://38.187.2.124:8000/play/a00i/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/q7bsqx3t/FFgb-MMc-Xw-AAXWYX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "ESPN 5",
-                "url": "http://38.224.231.47:8000/play/a032/index.m3u8?hls",
+                "url": "http://38.187.2.124:8000/play/a01e/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/7ZX7tnXM/GGZOje3W4AAg7e-O.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "ESPN 6",
-                "url": "http://38.224.231.47:8000/play/a02w/index.m3u8?hls",
+                "url": "http://38.187.2.124:8000/play/a017/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/MGvcP2v3/espn-6-logo-png-seeklogo-522717.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "ESPN 7",
-                "url": "http://38.224.231.47:8000/play/a049/index.m3u8?hls",
+                "url": "http://38.187.2.124:8000/play/a00b/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/yNgdhmG7/espn-7-logo-png-seeklogo-522718.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "ESPN PREMIUM",
-                "url": "http://38.224.231.47:8000/play/a03w/index.m3u8?hls",
+                "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
                 "icono": "https://i.postimg.cc/4NWNr2kN/8ad719cccb-espn-premium-en-vivo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "LIGA 1 MAX",
@@ -2463,17 +2425,15 @@
             },
             {
                 "name": "RCN NOVELAS",
-                "url": "http://181.118.158.103:8000/play/rcnnovelas/index.m3u8?hls",
+                "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
                 "icono": "https://i.postimg.cc/DzSFC2nq/images-XCVBZCX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "AZ CORAZÓN",
-                "url": "http://181.118.158.103:8000/play/a02r/index.m3u8?hls",
+                "url": "http://200.115.120.1:8000/play/ca020/index.m3u8",
                 "icono": "https://i.postimg.cc/MGf27dmR/canales-azcorazon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "HLS"
             },
             {
                 "name": "TELEMUNDO",
@@ -2489,9 +2449,8 @@
         "samples": [
             {
                 "name": "PLIM PLIM",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/np7ipkvvlvy00w8xmcz2d/plimplim.json?rlkey=cstpu2ozeo12ed5ugdwfnalws&st=465tr4hs&dl=0",
+                "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
+                "type": "HLS",
                 "icono": "https://i.postimg.cc/3xCZ4XMs/9940-e4b98969-1.webp"
             }
         ]
